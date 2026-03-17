@@ -16,7 +16,7 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 
 # News!
 * I am a Co-PC chair of [FCS@CSF@FLoC'26](https://fcs-workshop.github.io/fcs2026/), the workshop on Foundations of Computer Security. Consider submitting past or ongoing work (either short or long papers).
-* I'm very happy to welcome to Darius and Brian as Ph.D. researchers in my group!
+* I'm very happy to welcome to Darius and Brian, who joined my group as Ph.D. researchers!
 * After a long embargo, our paper [Enter, Exit, Page Fault, Leak: Testing Isolation Boundaries for Microarchitectural Leaks](https://arxiv.org/abs/2507.06039) is available now. The paper describes [Transient Scheduler Attacks](https://thehackernews.com/2025/07/amd-warns-of-new-transient-scheduler.html) that can leak data across security boundaries.
 
 <details>
