@@ -8,20 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am a tenure-track researcher at the [Max Planck Institute for Security and Privacy (MPI-SP)](https://www.mpi-sp.org). I investigate how to establish trust in information systems by giving strong security and privacy guarantees, for both hardware and software. My work focuses on detecting, specifying, and preventing information leakage through microarchitectural side-channels. I develop specification languages and models, proof techniques, and testing approaches for black-box systems.
+I am a tenure-track researcher at the [Max Planck Institute for Security and Privacy (MPI-SP)](https://www.mpi-sp.org). I investigate how to establish trust in information systems by giving strong security and privacy guarantees, for both hardware and software. My work focuses on detecting, specifying, and preventing information leakage through microarchitectural side channels. I develop specification languages and models, proof techniques, and testing approaches for black-box systems.
 
 Previously, I was a researcher at [Azure Research, Microsoft](https://www.microsoft.com/en-us/research/group/azure-research/), where I worked on detection mechanisms and defenses for microarchitectural side-channels.
 I obtained my PhD from [Saarland University](https://saarland-informatics-campus.de) (while working at [CISPA](https://cispa.de/en)) in 2022, where I was advised by [Bernd Finkbeiner](https://www.react.uni-saarland.de/people/finkbeiner.html). My thesis was awarded with Saarland University's [Dr.-Eduard-Martin prize](https://www.uni-saarland.de/aktuell/eduard-martin-preise-2023-27582.html) for the best computer science dissertation of the year. A 10-page summary of my thesis (with a focus on logics) can be found [here](http://janahofmann.github.io/files/summary_dissertation.pdf).
 
 
 # News!
+* I am a Co-PC chair of [FCS@CSF@FLoC'26](https://fcs-workshop.github.io/fcs2026/), the workshop on Foundations of Computer Security. Consider submitting past or ongoing work (either short or long papers).
+* I'm very happy to welcome to Darius and Brian as Ph.D. researchers in my group!
 * After a long embargo, our paper [Enter, Exit, Page Fault, Leak: Testing Isolation Boundaries for Microarchitectural Leaks](https://arxiv.org/abs/2507.06039) is available now. The paper describes [Transient Scheduler Attacks](https://thehackernews.com/2025/07/amd-warns-of-new-transient-scheduler.html) that can leak data across security boundaries.
-* I am a PC chair of [PLAS@CCS'25](https://plas25.github.io), the Programming Languages and Analysis for Security workshop at CCS. Join us at CCS'25 in Taipei!
-* Our paper *Principled Microarchitectural Isolation on Cloud CPUs* won a **distinguished paper award** at CCS'24!
 
 <details>
 <summary>Show older news</summary>
   <ul>
+    <li> I am a Co-PC chair of <a href="https://plas25.github.io">PLAS@CCS'25</a>, the Programming Languages and Analysis for Security workshop at CCS. Join us at CCS'25 in Taipei!</li>
+    <li> Our paper *Principled Microarchitectural Isolation on Cloud CPUs* won a **distinguished paper award** at CCS'24!</li>
     <li> September'24: I will serve as Sponsorship Chair at CAV'25. I've also joined the PC of the Formal Methods & Programming Languages track at CCS'25. </li>
     <li> July'24: We have two papers accepted at CCS'24! One titled <i>Gaussian Elimination of Side-Channels: Linear Algebra for Memory Coloring</i> and the other titled <i>Principled Microarchitectural Isolation on Cloud CPUs</i>. </li>
     <li> April'24: I will start as a tenure-track faculty at MPI-SP in October 2024.</li>
@@ -39,6 +41,14 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
   </ul>
 </details>
 <br>
+
+# Group
+I lead the Group for Foundations of Information Security and Trust at the Max Planck Institute for Security and Privacy (MPI-SP). I am lucky to work with the following people:
+
+* [Darius Hartlief](https://dariushartlief.github.io) (Ph.D. researcher, since 2025)
+* [Brian (Bo) Fu](https://www.mpi-sp.org/person/148095) (Ph.D. researcher, since 2025)
+
+**I am hiring!** If you're interested in doing a Ph.D. or a Postdoc with me, please reach out.
 
 # Publications
 * [Enter, Exit, Page Fault, Leak: Testing Isolation Boundaries for Microarchitectural Leaks](https://arxiv.org/abs/2507.06039)<br>
